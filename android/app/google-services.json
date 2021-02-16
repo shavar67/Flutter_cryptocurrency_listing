@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "375379735578",
+    "project_id": "cryptic-92aad",
+    "storage_bucket": "cryptic-92aad.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:375379735578:android:3263220036cc4d771dcda3",
+        "android_client_info": {
+          "package_name": "com.example.cryptic_currency"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "375379735578-tf2m7p8h3l4h4mobvrs6rjlfb5jcpn7t.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBvqY64fajyi8FWppbwveBZ6PPZxG1MDLs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "375379735578-tf2m7p8h3l4h4mobvrs6rjlfb5jcpn7t.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "375379735578-lpgirs4vpll08kdf6k08r5rs7816dso6.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.crypticCurrency"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
