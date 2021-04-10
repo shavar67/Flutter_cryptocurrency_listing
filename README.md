@@ -5,8 +5,8 @@ The App implements three different apis to provide a dynamic experience.
 
 ## Key Features
 
-- Authentication
+- Firebase Authentication
 - pull to refresh
 - metrics 
 - news 
-- currency price listing
+
