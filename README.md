@@ -1,4 +1,4 @@
-# cryptic_currency
+#Flutter cryptocurrency price listing app.
 Cryptic is a price listing app built with flutter and the messari.io api, this app is for educational purposes only.
 The App implements three different apis to provide a dynamic experience.
 
